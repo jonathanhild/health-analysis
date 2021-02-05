@@ -1,0 +1,178 @@
+MomentType,Measurement,Unit,Timestamp,MedName,Type,Note,Tags,Location,TimeZone,ExcelTimestamp
+Blood Glucose,90.0,mg/dL,2020-07-31 10:44:09.0,,,,,,America/Los_Angeles,1596217449000
+Activity,53.70882,minutes,2020-07-31 08:20:24.57,,,Data from Google Fit: 6218 steps,,,,1596208824570
+Blood Glucose,115.0,mg/dL,2020-07-31 05:30:02.0,,,,,,America/Los_Angeles,1596198602000
+Blood Glucose,90.0,mg/dL,2020-07-30 17:02:52.0,,,,,,America/Los_Angeles,1596153772000
+Activity,57.52025,minutes,2020-07-30 09:15:58.952,,,Data from Google Fit: 6464 steps,,,,1596125758952
+Blood Glucose,122.0,mg/dL,2020-07-30 05:51:26.0,,,,,,America/Los_Angeles,1596113486000
+Blood Glucose,99.0,mg/dL,2020-07-29 15:20:38.0,,,,,,America/Los_Angeles,1596061238000
+Blood Glucose,100.0,mg/dL,2020-07-29 10:46:37.0,,,,,,America/Los_Angeles,1596044797000
+Blood Glucose,105.0,mg/dL,2020-07-29 07:12:33.0,,,,,,America/Los_Angeles,1596031953000
+Blood Glucose,94.0,mg/dL,2020-07-28 16:53:09.0,,,,,,,1595980389000
+Blood Glucose,82.0,mg/dL,2020-07-28 11:40:39.0,,,,,,,1595961639000
+Activity,59.753433,minutes,2020-07-28 08:19:10.728,,,Data from Google Fit: 6554 steps,,,,1595949550728
+Blood Glucose,99.0,mg/dL,2020-07-27 17:09:58.0,,,,,,America/Los_Angeles,1595894998000
+Activity,31.031832,minutes,2020-07-27 12:34:53.058,,,Data from Google Fit: 3256 steps,,,,1595878493058
+Blood Glucose,130.0,mg/dL,2020-07-27 06:12:39.0,,,,,,America/Los_Angeles,1595855559000
+Blood Glucose,105.0,mg/dL,2020-07-26 18:17:14.0,,,,,,,1595812634000
+Blood Glucose,107.0,mg/dL,2020-07-26 13:17:46.0,,,,,,,1595794666000
+Activity,10.383551,minutes,2020-07-26 08:03:57.976,,,Data from Google Fit: 448 steps,,,,1595775837976
+Activity,22.279118,minutes,2020-07-26 07:26:44.393,,,Data from Google Fit: 1464 steps,,,,1595773604393
+Blood Glucose,94.0,mg/dL,2020-07-25 13:21:47.0,,,,,,America/Los_Angeles,1595708507000
+Blood Glucose,137.0,mg/dL,2020-07-25 08:12:13.0,,,,,,America/Los_Angeles,1595689933000
+Blood Glucose,122.0,mg/dL,2020-07-24 06:07:07.0,,,,,,,1595596027000
+Activity,56.772736,minutes,2020-07-23 14:16:31.082,,,Data from Google Fit: 6445 steps,,,,1595538991082
+Blood Glucose,101.0,mg/dL,2020-07-23 12:15:00.0,,,,,,,1595531700000
+Medication,10.0,mg,2020-07-31 19:00:00.0,Lisinopril (Generic),Other,,,,,1596247200000
+Blood Glucose,110.0,mg/dL,2020-07-23 06:05:32.0,,,,,,America/Los_Angeles,1595509532000
+Blood Glucose,94.0,mg/dL,2020-07-22 11:00:49.0,,,,,,,1595440849000
+Activity,55.980213,minutes,2020-07-22 09:38:42.067,,,Data from Google Fit: 6268 steps,,,,1595435922067
+Blood Glucose,123.0,mg/dL,2020-07-22 06:27:19.0,,,,,,,1595424439000
+Blood Glucose,101.0,mg/dL,2020-07-21 16:06:32.0,,,,,,America/Los_Angeles,1595372792000
+Blood Glucose,99.0,mg/dL,2020-07-21 11:23:56.0,,,,,,,1595355836000
+Activity,65.08849,minutes,2020-07-21 09:42:47.369,,,Data from Google Fit: 7258 steps,,,America/Los_Angeles,1595349767369
+Blood Glucose,135.0,mg/dL,2020-07-21 07:19:33.0,,,,,,,1595341173000
+Blood Glucose,105.0,mg/dL,2020-07-20 17:22:47.0,,,,,,,1595290967000
+Blood Glucose,112.0,mg/dL,2020-07-20 12:03:04.0,,,,,,,1595271784000
+Medication,1000.0,mg,2020-07-30 07:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1596117600000
+Blood Glucose,102.0,mg/dL,2020-07-19 15:43:11.0,,,,,,America/Los_Angeles,1595198591000
+Activity,30.06175,minutes,2020-07-19 14:52:35.943,,,Data from Google Fit: 1567 steps,,,,1595195555943
+Activity,55.13798,minutes,2020-07-19 12:50:28.215,,,Data from Google Fit: 6036 steps,,,,1595188228215
+Blood Glucose,131.0,mg/dL,2020-07-19 07:23:11.0,,,,,,America/Los_Angeles,1595168591000
+Activity,3.1101832,minutes,2020-07-18 17:40:26.096,,,Data from Google Fit: 44 steps,,,,1595119226096
+Activity,60.4698,minutes,2020-07-18 15:46:13.624,,,Data from Google Fit: 6679 steps,,,,1595112373624
+Blood Glucose,136.0,mg/dL,2020-07-18 06:41:42.0,,,,,,,1595079702000
+Blood Glucose,111.0,mg/dL,2020-07-17 11:39:44.0,,,,,,America/Los_Angeles,1595011184000
+Blood Glucose,134.0,mg/dL,2020-07-17 06:56:28.0,,,,,,America/Los_Angeles,1594994188000
+Blood Glucose,96.0,mg/dL,2020-07-16 12:25:17.0,,,,,,America/Los_Angeles,1594927517000
+Activity,3.1424832,minutes,2020-07-16 12:06:01.023,,,Data from Google Fit: 162 steps,,,,1594926361023
+Activity,51.83285,minutes,2020-07-16 10:55:49.069,,,Data from Google Fit: 5723 steps,,,,1594922149069
+Blood Glucose,122.0,mg/dL,2020-07-16 07:34:45.0,,,,,,,1594910085000
+Blood Glucose,96.0,mg/dL,2020-07-15 13:41:08.0,,,,,,America/Los_Angeles,1594845668000
+Blood Glucose,135.0,mg/dL,2020-07-15 06:25:15.0,,,,,,,1594819515000
+Medication,10.0,mg,2020-07-30 19:00:00.0,Lisinopril (Generic),Other,,,,,1596160800000
+Medication,1000.0,mg,2020-07-27 07:00:00.0,Metformin (generic),Pill,,,,,1595858400000
+Medication,1000.0,mg,2020-07-31 07:00:00.0,Metformin (generic),Pill,,,,,1596204000000
+Medication,1000.0,mg,2020-07-30 19:00:00.0,Metformin (generic),Pill,,,,,1596160800000
+Medication,1000.0,mg,2020-07-26 19:00:00.0,Metformin (generic),Pill,,,,,1595815200000
+Medication,10.0,mg,2020-07-27 19:00:00.0,Lisinopril (Generic),Other,,,,,1595901600000
+Medication,1000.0,mg,2020-07-29 19:00:00.0,Metformin (generic),Pill,,,,,1596074400000
+Medication,1000.0,mg,2020-07-28 19:00:00.0,Metformin (generic),Pill,,,,,1595988000000
+Medication,1000.0,mg,2020-07-27 19:00:00.0,Metformin (generic),Pill,,,,,1595901600000
+Medication,1000.0,mg,2020-07-26 07:00:00.0,Metformin (generic),Pill,,,,,1595772000000
+Medication,1000.0,mg,2020-07-29 07:00:00.0,Metformin (generic),Pill,,,,,1596031200000
+Medication,1000.0,mg,2020-07-21 19:00:00.0,Metformin (generic),Pill,,,,,1595383200000
+Medication,10.0,mg,2020-07-25 19:00:00.0,Lisinopril (Generic),Other,,,,,1595728800000
+Medication,1000.0,mg,2020-07-24 07:00:00.0,Metformin (generic),Pill,,,,,1595599200000
+Medication,10.0,mg,2020-07-26 19:00:00.0,Lisinopril (Generic),Other,,,,,1595815200000
+Medication,1000.0,mg,2020-07-22 07:00:00.0,Metformin (generic),Pill,,,,,1595426400000
+Medication,1000.0,mg,2020-07-23 19:00:00.0,Metformin (generic),Pill,,,,,1595556000000
+Medication,10.0,mg,2020-07-20 19:00:00.0,Lisinopril (Generic),Other,,,,,1595296800000
+Medication,10.0,mg,2020-07-28 19:00:00.0,Lisinopril (Generic),Other,,,,,1595988000000
+Medication,1000.0,mg,2020-07-25 19:00:00.0,Metformin (generic),Pill,,,,,1595728800000
+Medication,1000.0,mg,2020-07-17 19:00:00.0,Metformin (generic),Pill,,,,,1595037600000
+Medication,1000.0,mg,2020-07-20 07:00:00.0,Metformin (generic),Pill,,,,,1595253600000
+Medication,10.0,mg,2020-07-22 19:00:00.0,Lisinopril (Generic),Other,,,,,1595469600000
+Activity,60.78765,minutes,2020-07-14 10:02:38.463,,,Data from Google Fit: 6316 steps,,,,1594746158463
+Blood Glucose,117.0,mg/dL,2020-07-14 07:17:42.0,,,,,,,1594736262000
+Medication,1000.0,mg,2020-07-23 07:00:00.0,Metformin (generic),Pill,,,,,1595512800000
+Activity,42.405083,minutes,2020-07-13 16:36:57.492,,,Data from Google Fit: 4655 steps,,,,1594683417492
+Activity,29.628819,minutes,2020-07-13 12:41:48.334,,,Data from Google Fit: 1515 steps,,,,1594669308334
+Medication,1000.0,mg,2020-07-31 19:00:00.0,Metformin (generic),Pill,,,,,1596247200000
+Blood Glucose,105.0,mg/dL,2020-07-12 12:38:30.0,,,,,,,1594582710000
+Blood Glucose,133.0,mg/dL,2020-07-12 07:46:21.0,,,,,,America/Los_Angeles,1594565181000
+Medication,10.0,mg,2020-07-23 19:00:00.0,Lisinopril (Generic),Other,,,,,1595556000000
+Blood Glucose,102.0,mg/dL,2020-07-11 12:29:04.0,,,,,,America/Los_Angeles,1594495744000
+Blood Glucose,131.0,mg/dL,2020-07-11 08:22:26.0,,,,,,America/Los_Angeles,1594480946000
+Medication,1000.0,mg,2020-07-20 19:00:00.0,Metformin (generic),Pill,,,,,1595296800000
+Medication,1000.0,mg,2020-07-25 07:00:00.0,Metformin (generic),Pill,,,,,1595685600000
+Blood Glucose,95.0,mg/dL,2020-07-10 18:23:00.0,,,,,,,1594430580000
+,117.0,,2020-07-10 18:01:04.633,,,,,,,1594429264633
+,122.197685,,2020-07-10 17:57:44.235,,,,,,,1594429064235
+Activity,57.68323,minutes,2020-07-10 14:13:11.702,,,Data from Google Fit: 6324 steps,,,,1594415591702
+Blood Glucose,124.0,mg/dL,2020-07-10 12:26:09.0,,,,,,America/Los_Angeles,1594409169000
+Blood Glucose,131.0,mg/dL,2020-07-10 07:50:41.0,,,,,,America/Los_Angeles,1594392641000
+Medication,1000.0,mg,2020-07-18 19:00:00.0,Metformin (generic),Pill,,,,,1595124000000
+Medication,1000.0,mg,2020-07-19 07:00:00.0,Metformin (generic),Pill,,,,,1595167200000
+Medication,10.0,mg,2020-07-29 19:00:00.0,Lisinopril (Generic),Other,,,,,1596074400000
+Medication,10.0,mg,2020-07-15 19:00:00.0,Lisinopril (Generic),Other,,,,,1594864800000
+Medication,1000.0,mg,2020-07-17 07:00:00.0,Metformin (generic),Pill,,,,,1594994400000
+Medication,10.0,mg,2020-07-19 19:00:00.0,Lisinopril (Generic),Other,,,,,1595210400000
+Medication,1000.0,mg,2020-07-15 07:00:00.0,Metformin (generic),Pill,,,,,1594821600000
+Medication,10.0,mg,2020-07-21 19:00:00.0,Lisinopril (Generic),Other,,,,,1595383200000
+Blood Glucose,96.0,mg/dL,2020-07-09 18:08:29.0,,,,,,America/Los_Angeles,1594343309000
+Blood Glucose,133.0,mg/dL,2020-07-09 06:41:03.0,,,,,,America/Los_Angeles,1594302063000
+Activity,4.2350335,minutes,2020-07-08 17:21:13.075,,,Data from Google Fit: 156 steps,,,,1594254073075
+Blood Glucose,106.0,mg/dL,2020-07-08 16:45:15.0,,,,,,America/Los_Angeles,1594251915000
+Activity,45.697197,minutes,2020-07-08 13:54:39.434,,,Data from Google Fit: 4692 steps,,,,1594241679434
+Blood Glucose,99.0,mg/dL,2020-07-08 11:30:48.0,,,,,,,1594233048000
+Blood Glucose,129.0,mg/dL,2020-07-08 06:46:27.0,,,,,,,1594215987000
+Blood Glucose,114.0,mg/dL,2020-07-07 16:31:28.0,,,,,,America/Los_Angeles,1594164688000
+Blood Glucose,107.0,mg/dL,2020-07-07 11:17:08.0,,,,,,America/Los_Angeles,1594145828000
+Blood Glucose,142.0,mg/dL,2020-07-07 07:34:19.0,,,,,,,1594132459000
+Medication,1000.0,mg,2020-07-22 19:00:00.0,Metformin (generic),Pill,,,,,1595469600000
+Medication,1000.0,mg,2020-07-21 07:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1595340000000
+Medication,1000.0,mg,2020-07-18 07:00:00.0,Metformin (generic),Pill,,,,,1595080800000
+Medication,1000.0,mg,2020-07-16 19:00:00.0,Metformin (generic),Pill,,,,,1594951200000
+Medication,10.0,mg,2020-07-16 19:00:00.0,Lisinopril (Generic),Other,,,,,1594951200000
+Medication,10.0,mg,2020-07-18 19:00:00.0,Lisinopril (Generic),Other,,,,,1595124000000
+Medication,1000.0,mg,2020-07-19 19:00:00.0,Metformin (generic),Pill,,,,,1595210400000
+Activity,32.653114,minutes,2020-07-06 15:44:58.072,,,Data from Google Fit: 3409 steps,,,,1594075498072
+Blood Glucose,111.0,mg/dL,2020-07-06 15:36:40.0,,,,,,America/Los_Angeles,1594075000000
+Blood Glucose,114.0,mg/dL,2020-07-06 12:01:22.0,,,,,,America/Los_Angeles,1594062082000
+Blood Glucose,147.0,mg/dL,2020-07-06 06:57:06.0,,,,,,,1594043826000
+Blood Glucose,123.0,mg/dL,2020-07-05 17:58:31.0,,,,,,America/Los_Angeles,1593997111000
+Activity,31.446901,minutes,2020-07-05 15:35:45.133,,,Data from Google Fit: 1659 steps,,,,1593988545133
+Blood Glucose,125.0,mg/dL,2020-07-05 11:48:14.0,,,,,,America/Los_Angeles,1593974894000
+Blood Glucose,138.0,mg/dL,2020-07-05 07:24:34.0,,,,,,,1593959074000
+Blood Glucose,113.0,mg/dL,2020-07-04 17:38:06.0,,,,,,America/Los_Angeles,1593909486000
+Blood Glucose,135.0,mg/dL,2020-07-04 15:27:03.0,,,,,,,1593901623000
+Activity,54.267002,minutes,2020-07-04 12:47:30.241,,,Data from Google Fit: 5860 steps,,,,1593892050241
+Activity,14.204033,minutes,2020-07-04 12:11:14.451,,,Data from Google Fit: 924 steps,,,,1593889874451
+Blood Glucose,149.0,mg/dL,2020-07-04 07:20:00.0,,,,,,America/Los_Angeles,1593872400000
+Blood Glucose,152.0,mg/dL,2020-07-03 15:25:57.0,,,,,,America/Los_Angeles,1593815157000
+Blood Glucose,115.0,mg/dL,2020-07-03 12:23:35.0,,,,,,America/Los_Angeles,1593804215000
+Blood Glucose,141.0,mg/dL,2020-07-03 06:44:49.0,,,,,,,1593783889000
+Medication,10.0,mg,2020-07-17 19:00:00.0,Lisinopril (Generic),Other,,,,,1595037600000
+Medication,1000.0,mg,2020-07-13 07:00:00.0,Metformin (generic),Pill,,,,,1594648800000
+Medication,1000.0,mg,2020-07-16 07:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1594908000000
+Medication,1000.0,mg,2020-07-11 07:00:00.0,Metformin (generic),Pill,,,,,1594476000000
+Medication,1000.0,mg,2020-07-15 19:00:00.0,Metformin (generic),Pill,,,,,1594864800000
+Medication,1000.0,mg,2020-07-28 07:00:00.0,Metformin (generic),Pill,,,,,1595944800000
+Blood Glucose,113.0,mg/dL,2020-07-02 18:05:20.0,,,,,,America/Los_Angeles,1593738320000
+Blood Glucose,107.0,mg/dL,2020-07-02 10:34:28.0,,,,,,America/Los_Angeles,1593711268000
+Blood Glucose,141.0,mg/dL,2020-07-02 06:24:48.0,,,,,,,1593696288000
+Blood Glucose,115.0,mg/dL,2020-07-01 17:35:54.0,,,,,,America/Los_Angeles,1593650154000
+Blood Glucose,108.0,mg/dL,2020-07-01 10:39:18.0,,,,,,,1593625158000
+Activity,61.498634,minutes,2020-07-01 09:14:41.681,,,Data from Google Fit: 6720 steps,,,America/Los_Angeles,1593620081681
+Blood Glucose,141.0,mg/dL,2020-07-01 05:58:08.0,,,,,,,1593608288000
+Medication,1000.0,mg,2020-07-12 19:00:00.0,Metformin (generic),Pill,,,,,1594605600000
+Medication,10.0,mg,2020-07-11 19:00:00.0,Lisinopril (Generic),Other,,,,,1594519200000
+Medication,10.0,mg,2020-07-14 19:00:00.0,Lisinopril (Generic),Other,,,,,1594778400000
+Medication,1000.0,mg,2020-07-10 19:00:00.0,Metformin (generic),Pill,,,,,1594432800000
+Medication,1000.0,mg,2020-07-12 07:00:00.0,Metformin (generic),Pill,,,,,1594562400000
+Medication,1000.0,mg,2020-07-14 07:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1594735200000
+Medication,10.0,mg,2020-07-12 19:00:00.0,Lisinopril (Generic),Other,,,,,1594605600000
+Medication,1000.0,mg,2020-07-13 19:00:00.0,Metformin (generic),Pill,,,,,1594692000000
+Medication,10.0,mg,2020-07-13 19:00:00.0,Lisinopril (Generic),Other,,,,,1594692000000
+Medication,1000.0,mg,2020-07-11 19:00:00.0,Metformin (generic),Pill,,,,,1594519200000
+Medication,10.0,mg,2020-07-10 19:00:00.0,Lisinopril (Generic),Other,,,,,1594432800000
+Medication,10.0,mg,2020-07-08 19:00:00.0,Lisinopril (Generic),Other,,,,,1594260000000
+Medication,1000.0,mg,2020-07-10 07:00:00.0,Metformin (generic),Pill,,,,,1594389600000
+Medication,1000.0,mg,2020-07-09 19:00:00.0,Metformin (generic),Pill,,,,,1594346400000
+Medication,10.0,mg,2020-07-03 19:00:00.0,Lisinopril (Generic),Other,,,,,1593828000000
+Medication,1000.0,mg,2020-07-07 07:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1594130400000
+Medication,1000.0,mg,2020-07-09 07:00:00.0,Metformin (generic),Pill,,,,,1594303200000
+Medication,10.0,mg,2020-07-07 19:00:00.0,Lisinopril (Generic),Other,,,,,1594173600000
+Medication,1000.0,mg,2020-07-08 07:00:00.0,Metformin (generic),Pill,,,,,1594216800000
+Medication,10.0,mg,2020-07-04 19:00:00.0,Lisinopril (Generic),Other,,,,,1593914400000
+Medication,1000.0,mg,2020-07-06 07:00:00.0,Metformin (generic),Pill,,,,,1594044000000
+Medication,1000.0,mg,2020-07-06 19:00:00.0,Metformin (generic),Pill,,,,America/Los_Angeles,1594087200000
+Medication,1000.0,mg,2020-07-08 19:00:00.0,Metformin (generic),Pill,,,,,1594260000000
+Medication,1000.0,mg,2020-07-07 19:00:00.0,Metformin (generic),Pill,,,,,1594173600000
+Medication,10.0,mg,2020-07-09 19:00:00.0,Lisinopril (Generic),Other,,,,,1594346400000
+Medication,10.0,mg,2020-07-01 19:00:00.0,Lisinopril (Generic),Other,,,,,1593655200000
+Medication,10.0,mg,2020-07-06 19:00:00.0,Lisinopril (Generic),Other,,,,America/Los_Angeles,1594087200000
+Medication,10.0,mg,2020-07-02 19:00:00.0,Lisinopril (Generic),Other,,,,,1593741600000
+Medication,10.0,mg,2020-07-05 19:00:00.0,Lisinopril (Generic),Other,,,,,1594000800000
+Medication,1000.0,mg,2020-07-14 19:00:00.0,Metformin (generic),Pill,,,,,1594778400000
